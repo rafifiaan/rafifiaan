@@ -73,14 +73,8 @@ I really like things related to software development, like web development. I li
 
 ## 📈 GitHub Stat's 
 
-- **Profile Stat's**
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafifiaan)](https://github.com/rafifiaan)
-
-- **Language Stat's**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact)](https://github.com/rafifiaan)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafifiaan&theme=light&show_icons=true&locale=en&layout=compact" alt="rafifiaan" /> 
+<img width="400"src="https://github-readme-stats.vercel.app/api?username=rafifiaan&theme=light"/></p><p></p>
 
 ## Glad to see you here, hope we can work together!  🙌 &nbsp; 
 **Appreciate :** ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/rafifiaan.visitor-badge&left_color=blue&right_color=dark&left_text=%20Visitors)
