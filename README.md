@@ -72,7 +72,6 @@ I really like things related to software development, like web development. I li
 
 
 ## 📈 GitHub Stat's 
--
 
 - **Profile Stat's**
 
