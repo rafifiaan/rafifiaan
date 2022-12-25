@@ -73,9 +73,13 @@ I really like things related to software development, like web development. I li
 
 ## 📈 GitHub Stat's 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rafifiaan" alt="rafifiaan" /> 
-<img width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact"/></p><p></p>
+- **Profile Stat's**
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafifiaan)](https://github.com/yushi1007)
+
+- **Language Stat's**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/rafifiaan)
 
 
 ## Glad to see you here, hope we can work together!  🙌 &nbsp; 
