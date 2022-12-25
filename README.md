@@ -75,11 +75,11 @@ I really like things related to software development, like web development. I li
 
 - **Profile Stat's**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafifiaan)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rafifiaan)](https://github.com/rafifiaan)
 
 - **Language Stat's**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/rafifiaan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifaan&layout=compact)](https://github.com/rafifiaan)
 
 
 ## Glad to see you here, hope we can work together!  🙌 &nbsp; 
