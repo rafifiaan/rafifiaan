@@ -79,7 +79,7 @@ I really like things related to software development, like web development. I li
 
 - **Language Stat's**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifaan&layout=compact)](https://github.com/rafifiaan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact)](https://github.com/rafifiaan)
 
 
 ## Glad to see you here, hope we can work together!  🙌 &nbsp; 
