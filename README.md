@@ -32,7 +32,7 @@ I really like things related to software development, like web development. I li
 - 🚀 &nbsp; I’m currently learning about Full Stack Development
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rafifiaan)
 - 💬 &nbsp; Ask me about anything [here](https://github.com/rafifiaan/rafifiaan/issues/11)! I am very open to this😊
-- 📫 &nbsp; For private ask, reach me on: rafialiefian03@gmail.com
+- 📫 &nbsp; For private ask, reach me on: bs997555@gmail.com
 
 ## ⚡ My Absolute Favorites:
 
