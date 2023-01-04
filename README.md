@@ -77,4 +77,4 @@ I really like things related to software development, like web development. I li
 <img width="400"src="https://github-readme-stats.vercel.app/api?username=rafifiaan&theme=light"/></p><p></p>
 
 ## Glad to see you here, hope we can work together!  🙌 &nbsp; 
-**Appreciate :** [![GitHub watchers](https://img.shields.io/github/watchers/rafifiaan/rafifiaan.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/rafifiaan/rafifiaan/watchers/)
+**Appreciate :** ![Profile Views](https://gpvc.arturio.dev/rafifiaan)
