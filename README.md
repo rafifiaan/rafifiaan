@@ -25,8 +25,6 @@ I really like things related to software development, like web development. I li
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me on my social media!
 - 📩 For Bussines My Email : rafialiefian03@gmail.com
 
-<img align="right" height="250" width="300" alt="" src="https://user-images.githubusercontent.com/91828276/209476514-9ea12211-aff2-4f2f-9478-9e241fa8f440.gif" />
-
 ## 👱🏻‍♂️ About Personal Stuff :
 - 🛠 &nbsp; I’m currently studying with C++, Python, Java, R, Javascript Language, etc.
 - 🚀 &nbsp; I’m currently learning about Full Stack Development
