@@ -68,10 +68,5 @@ I really like things related to software development, like web development. I li
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
-
-## 📈 GitHub Stat's 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafifiaan&theme=light&show_icons=true&locale=en&layout=compact" alt="rafifiaan" /> 
-
 ## Glad to see you here, hope we can work together!  🙌 &nbsp; 
 **Appreciate :** ![Profile Views](https://gpvc.arturio.dev/rafifiaan)
