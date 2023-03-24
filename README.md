@@ -73,8 +73,7 @@ I really like things related to software development, like web development. I li
 
 ## 📈 GitHub Stat's 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafifiaan&theme=light&show_icons=true&locale=en&layout=compact" alt="rafifiaan" /> 
-<img width="400"src="https://github-readme-stats.vercel.app/api?username=rafifiaan&theme=light"/></p><p></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafifiaan&theme=light&show_icons=true&locale=en&layout=compact" alt="rafifiaan" /> 
 
 ## Glad to see you here, hope we can work together!  🙌 &nbsp; 
 **Appreciate :** ![Profile Views](https://gpvc.arturio.dev/rafifiaan)
