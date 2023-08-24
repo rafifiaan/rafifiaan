@@ -1,14 +1,10 @@
-<p align="center">
-  <a ><img src="https://user-images.githubusercontent.com/91828276/209473416-515a40c2-0568-4cfe-9984-d22185496cf4.png" alt="my banner"></a>
-</p>
 
-<h3 align="center">
 
 Hey there 👋, I'm [Rafi](https://github.com/rafifiaan) here!
 </h3>
 
 <h2 align="center">
-I'm a 2nd year Informatics Engineering/Computer Science Student 💻!
+I'm a 3rd year Informatics Engineering/Computer Science Student 💻!
 </h2> 
 
 I really like things related to software development, like web development. I like static thinking, and of course willing to face unexpected problems and always improve my programming skills and armed with logic. I am interested in the Software Engineering / Developer role. Not closing the possibility, I also really like things that are very unexpected 🙌.
