@@ -1,7 +1,7 @@
 
 
 Hey there 👋, I'm [Rafi](https://github.com/rafifiaan) here!
-</h3>
+</h1>
 
 <h2 align="center">
 I'm a 3rd year Informatics Engineering/Computer Science Student 💻!
