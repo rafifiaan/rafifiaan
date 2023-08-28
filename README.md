@@ -59,4 +59,3 @@ I really like things related to software development, like web development. I li
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Glad to see you here, hope we can work together!  🙌 &nbsp; 
-**Appreciate :** ![Profile Views](https://gpvc.arturio.dev/rafifiaan)
