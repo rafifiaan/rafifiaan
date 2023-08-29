@@ -30,7 +30,7 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 
 ## ⚡ GitHub Stats
 
-| ![Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=rafifiaan&theme=transparent&show_icons=true) | [![Top Langs Rafi](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=rafifiaan)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs Rafi](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact&)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
 
 
