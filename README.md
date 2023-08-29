@@ -11,7 +11,7 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 - 💬 &nbsp; Ask me about anything [here](https://github.com/rafifiaan/rafifiaan/issues/11)! I am very open to this😊
 - 📫 &nbsp; How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/rafifiaan) or **Gmail** : rafialiefian03@gmail.com
 
-## 🔨 Language's & Tools
+## 🔨 Tech Stack's
 
 <h4><i>Language :</i></h4>
 <p align="center">
