@@ -6,8 +6,8 @@
 As a third-year Informatics Engineering student, I am very enthusiastic about the Software Engineering/Development field especially Back-End. My current  focus is on learning Full-Stack Development technologies especially Back-End Developer, utilizing a tactical mindset, programming skills, and adaptability. I am eager to  explore collaboration opportunities in this field with you! 🙌
 
 ## 👱🏻‍♂️ Talking about Personal Stuff's :
-- 🛠 &nbsp; I’m currently studying with Back-End Development 🌐.
-- 🚀 &nbsp; I’m currently learning about JavaScript Framework, .NET, Laravel, CG, Cloud.
+- 🛠 &nbsp; I’m currently studying about JavaScript Framework, .NET, Laravel, CG (Computer Graphics), Cloud.
+- 🚀 &nbsp; I’m currently learning Back-End Development field 🌐.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/rafifiaan/rafifiaan/issues/11)! I am very open to this😊
 - 📫 &nbsp; How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/rafifiaan) or **Gmail** : rafialiefian03@gmail.com
 
