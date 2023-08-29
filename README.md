@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Hey 👋, I'm Rafi Aliefian!
   
 *I'm a 3rd year Informatics Engineering/Computer Science Student 💻<br> 
@@ -33,20 +32,6 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 
 | ![Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=rafifiaan&theme=transparent&show_icons=true) | [![Top Langs Rafi](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
-=======
-
-
-<h2 align="center">
-  Hey there 👋, I'm <b>Rafi</b> here!
-</h2>
-  
-
-<h3 align="center">
-I'm a 3rd year Informatics Engineering/Computer Science Student 💻!
-</h3> 
-
-I really like things related to software development, like web development. I like static thinking, and of course willing to face unexpected problems and always improve my programming skills and armed with logic. I am interested in the Software Engineering / Developer role. Not closing the possibility, I also really like things that are very unexpected 🙌.
->>>>>>> 1d690fa1cde189a46c03cfdcdc2a613a78793d92
 
 
 ## 🤝 Connect with me :
@@ -66,31 +51,4 @@ I really like things related to software development, like web development. I li
 
 ### Glad to see you here, hope we can work together!  🙌❤️ &nbsp; 
 
-<<<<<<< HEAD
 </div>
-=======
-## 💼 Tech Stack
-
-**_Language Code :_** 
-
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**_Databases :_**
-
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-
-**_IDE :_**
-
-![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## Glad to see you here, hope we can work together!  🙌 &nbsp; 
->>>>>>> 1d690fa1cde189a46c03cfdcdc2a613a78793d92
