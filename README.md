@@ -3,6 +3,7 @@
 *I'm a 3rd year Informatics Engineering/Computer Science Student 💻<br> 
 at Sepuluh Nopember Institute of Technology 🏛️!*
 
+<div align=justify>
 As a third-year Informatics Engineering student, I am very enthusiastic about the Software Engineering/Development field especially Back-End. My current  focus is on learning Full-Stack Development technologies especially Back-End Developer, utilizing a tactical mindset, programming skills, and adaptability. I am eager to  explore collaboration opportunities in this field with you! 🙌
 
 ## 👱🏻‍♂️ Talking about Personal Stuff's :
@@ -13,14 +14,14 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 
 ## 🔨 Language's & Tools
 
-<h4><i>Language :<i></h4>
+<h4><i>Language :</i></h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,r" alt="skills rafi"/>
   </a>
 </p>
 
-<h4><i>Tools :<i></h4>
+<h4><i>Tools :</i></h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postgres,docker,jest,linux,nodejs,matlab,powershell" alt="tools rafi"/>
@@ -28,7 +29,7 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 </p>
 
 
-## ⚡ Github Stats
+## ⚡ GitHub Stats
 
 | ![Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=rafifiaan&theme=transparent&show_icons=true) | [![Top Langs Rafi](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
