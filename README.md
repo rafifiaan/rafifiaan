@@ -35,6 +35,7 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 ## 📃 Repositories Title Terms
 
 - For train/exercise : `learn-title-language` / `learn-tools-title-language`
+  - **If tools/language > 1, then write the title using most tools and/language**
 - For study/college : except than `train/exercise`
 
 ## 🤝 Connect with me :
