@@ -33,6 +33,9 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 | [![Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=rafifiaan)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs Rafi](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact&)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
 
+## 📃 Repositories Title Terms
+- For train/exercise : `learn-title-language` / `learn-tools-title-language`.
+- For study/college : except than `train/exercise`
 
 ## 🤝 Connect with me :
 
