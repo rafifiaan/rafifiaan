@@ -20,7 +20,7 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
   </a>
 </p>
 
-<h4><i>Tools :</i></h4>
+<h4><i>Tools/Framework :</i></h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postgres,docker,jest,linux,nodejs,matlab,powershell" alt="tools rafi"/>
@@ -36,7 +36,7 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 
 - For train/exercise : `learn-title-language` / `learn-tools-title-language`
   - **If tools/language > 1, then write the repo title using most tools and/ language**
-- For study/college : except than `train/exercise`
+- For study/college/real-project : except than `train/exercise`
 
 ## 🤝 Connect with me :
 
