@@ -32,10 +32,6 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 </p>
 
 ## ⚡ Statistic's
-
-| [![Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=rafifiaan)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs Rafi](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact&)](https://github.com/anuraghazra/github-readme-stats) |
-|---|---|
-
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rafifiaan&show_icons=true&count_private=true&theme=catppuccin_latte&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact&hide_border=true&theme=catppuccin_latte&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
