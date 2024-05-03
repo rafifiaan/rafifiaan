@@ -11,9 +11,9 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 
 </br>
 
-- 🛠 &nbsp; I’m currently studying JavaScript (NodeJs, Express), Cloud Computing (Google Cloud).
+- 🛠 &nbsp; I’m currently studying JavaScript (NodeJs, Express), Golang,  Cloud Computing (Google Cloud).
 - 🚀 &nbsp; I’m currently learning Back-End Development field 🌐.
-- 📫 &nbsp; How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/rafifiaan) or **Gmail** : rafialiefian03@gmail.com
+- 📫 &nbsp; How to reach me: Reach out to me directly through my **Gmail** : rafialiefian03@gmail.com
 
 ## 🔨 Skill's
 
@@ -49,7 +49,6 @@ As a third-year Informatics Engineering student, I am very enthusiastic about th
 <a href="https://www.linkedin.com/in/rafifiaanpr/"><img align="left" src="https://user-images.githubusercontent.com/91828276/209475797-23ec9742-321e-41cb-b067-483fc982ffa5.svg" alt="Rafi | LinkedIn" width="45px" style="margin-right: 10px;" /></a> 
 <a href="https://www.instagram.com/rafifiaan/"><img align="left" src="https://user-images.githubusercontent.com/91828276/209475747-11a55c3c-db08-4524-9a3b-59afc4d044e4.svg" alt="Rafi | Instagram" width="45px" style="margin-right: 10px;" /></a>
 <a href="https://telegram.me/saturnucespace"><img align="left" src="https://user-images.githubusercontent.com/91828276/209475906-818df514-d89a-49f2-a111-a6379b931832.svg" alt="Rafi | Telegram" width="45px" style="margin-right: 10px;" /></a>
-<a href="https://line.me/ti/p/~rafff3"><img align="left" src="https://user-images.githubusercontent.com/91828276/209476147-82d9b782-a284-4899-a0c9-a5bf07a68458.svg" alt="Rafi | Line" width="45px" style="margin-right: 10px;" /></a>
 </br>
 </br>
 
@@ -60,6 +59,6 @@ If you have any question/feedback, please do not hesitate to reach out to me on 
 <div align="center">
 
 
-### Glad to see you here, hope we can work together!  🙌❤️ &nbsp; 
+### I'm glad you're here and I hope we can collaborate! 🙌❤️ &nbsp; 
 
 </div>
