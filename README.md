@@ -4,10 +4,12 @@
 
 ## Hey 👋, I'm Rafi Aliefian!
   
-*I'm 3rd year Informatics Engineering/Computer Science Student at Sepuluh Nopember Institute of Technology 🏛️!*
+**Informatics Engineering/Computer Science Student at Sepuluh Nopember Institute of Technology 🏛️!**
 
 <div align=justify>
-As a third-year Informatics Engineering student, I am very enthusiastic about the Software Engineering/Development field especially Back-End. My current  focus is on learning Full-Stack Development technologies especially Back-End Developer, utilizing a tactical mindset, programming skills, and adaptability. I am eager to  explore collaboration opportunities in this field with you! 🙌
+As a third-year student, I am very enthusiastic and interested in the role of Software Engineering, particularly Backend Development. I have experience in web development and backend services, with JavaScript as my current preferred language. One of the skills I've developed is the ability to create APIs. 
+
+I prioritize honesty and responsibility in my work while continuing to expand my programming knowledge and skills. I believe that interacting and networking with others will improve my communication skills, and I am very excited to collaborate on future projects with you!  🙌
 
 </br>
 
