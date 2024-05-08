@@ -8,9 +8,11 @@
 
 <div align=justify>
 As a third-year student, I am very enthusiastic and interested in the role of Software Engineering, particularly Backend Development. I have experience in web development and backend services, with JavaScript as my current preferred language. One of the skills I've developed is the ability to create APIs. 
+
 </br>
 I prioritize honesty and responsibility in my work while continuing to expand my programming knowledge and skills. I believe that interacting and networking with others will improve my communication skills, and I am very excited to collaborate on future projects with you!  🙌
 
+###  Fact's
 - 🛠 &nbsp; I’m currently studying JavaScript (NodeJs, Express), Golang,  Cloud Computing (Google Cloud).
 - 🚀 &nbsp; I’m currently learning Back-End Development field 🌐.
 - 📫 &nbsp; Reach out to me directly through my **Gmail** : rafialiefian03@gmail.com
