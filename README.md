@@ -7,13 +7,14 @@
 **Informatics Engineering/Computer Science Student at Sepuluh Nopember Institute of Technology 🏛️!**
 
 <div align=justify>
-As a third-year student, I am very enthusiastic and interested in the role of Software Engineering, particularly Backend Development. I have experience in web development and backend services, with JavaScript as my current preferred language. One of the skills I've developed is the ability to create APIs. 
+As a third year student, I am very enthusiastic and interested in the role of Software Engineering, especially Backend Development.
+I have experience in web development for backend services and cloud service operations with google cloud. Currently, JavaScript and PHP are the languages of choice that I use. One of the skills I developed was the ability to create APIs and deploy systems on Google Cloud services. I have also operated Docker and Computer Networks with Linux
 
 </br>
 I prioritize honesty and responsibility in my work while continuing to expand my programming knowledge and skills. I believe that interacting and networking with others will improve my communication skills, and I am very excited to collaborate on future projects with you!  🙌
 
 ###  Fact's
-- 🛠 &nbsp; I’m currently studying JavaScript (NodeJs, Express), Golang,  Cloud Computing (Google Cloud).
+- 🛠 &nbsp; I’m currently studying JavaScript (NodeJs, Express), PHP,  Cloud Computing (Google Cloud).
 - 🚀 &nbsp; I’m currently learning Back-End Development field 🌐.
 - 📫 &nbsp; Reach out to me directly through my **Gmail** : rafialiefian03@gmail.com
 
@@ -22,14 +23,14 @@ I prioritize honesty and responsibility in my work while continuing to expand my
 <h4><i>Language :</i></h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,r" alt="skills rafi"/>
+    <img src="https://skillicons.dev/icons?i=php,js,c,cpp,java" alt="skills rafi"/>
   </a>
 </p>
 
 <h4><i>Tools/Framework :</i></h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,docker,jest,linux,nodejs,matlab,powershell" alt="tools rafi"/>
+    <img src="https://skillicons.dev/icons?i=git,postgres,docker,linux,nodejs" alt="toolsfw rafi"/>
   </a>
 </p>
 
@@ -39,12 +40,6 @@ I prioritize honesty and responsibility in my work while continuing to expand my
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact&hide_border=true&theme=catppuccin_latte&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=rafifiaan&theme=catppuccin_latte&hide_border=true&background=FFFFFF00">
 </p>
-
-## 📃 Repositories Title Terms
-
-- For train/exercise : `learn-title-language` / `learn-tools-title-language`
-  - **If tools/language > 1, then write the repo title using most tools and/ language**
-- For study/college/real-project : except than `train/exercise`
 
 ## 🤝 Connect with me :
 
