@@ -8,9 +8,11 @@
 
 <div align=justify>
 As a third year student, I am very enthusiastic and interested in the role of Software Engineering, especially Backend Development.
-I have experience in web development for backend services and cloud service operations with google cloud. Currently, JavaScript and PHP are the languages of choice that I use. One of the skills I developed was the ability to create APIs and deploy systems on Google Cloud services. I have also operated Docker and Computer Networks with Linux
+I have experience in web development for backend services and cloud service operations with google cloud. Currently, JavaScript and PHP are the languages of choice that I use. One of the skills I developed was the ability to create APIs and deploy systems on Google Cloud services. I have also operated Docker and Computer Networks with Linux.
 
 </br>
+</br>
+
 I prioritize honesty and responsibility in my work while continuing to expand my programming knowledge and skills. I believe that interacting and networking with others will improve my communication skills, and I am very excited to collaborate on future projects with you!  🙌
 
 ###  Fact's
@@ -23,14 +25,14 @@ I prioritize honesty and responsibility in my work while continuing to expand my
 <h4><i>Language :</i></h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,c,cpp,java" alt="skills rafi"/>
+    <img src="https://skillicons.dev/icons?i=js,php,c,cpp,java" alt="skills rafi"/>
   </a>
 </p>
 
 <h4><i>Tools/Framework :</i></h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,docker,linux,nodejs" alt="toolsfw rafi"/>
+    <img src="https://skillicons.dev/icons?i=git,postgres,docker,nodejs,expressjs,laravel" alt="toolsfw rafi"/>
   </a>
 </p>
 
