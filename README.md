@@ -16,7 +16,7 @@ I have experience in web development for backend services and cloud service oper
 I prioritize honesty and responsibility in my work while continuing to expand my programming knowledge and skills. I believe that interacting and networking with others will improve my communication skills, and I am very excited to collaborate on future projects with you!  🙌
 
 ###  Fact's
-- 🚀 &nbsp; I’m currently exploring Back-End Development using JavaScript (Node.js, Express), PHP (Laravel), and Cloud Computing (Google Cloud).
+- 🚀 &nbsp; I’m currently exploring Back-End Development using JavaScript (Node.js, Express), PHP (Laravel), TypeScript (Bun, Hono), Drizzle ORM, PostgreSQL (Supabase server's) and Cloud Computing (Google Cloud).
 - 📫 &nbsp; Reach out to me directly through my **Gmail** : rafialiefian03@gmail.com
 
 ## 🔨 Skill's
@@ -24,7 +24,7 @@ I prioritize honesty and responsibility in my work while continuing to expand my
 <h4><i>Language :</i></h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,c,cpp,java" alt="skills rafi"/>
+    <img src="https://skillicons.dev/icons?i=js,php,c,cpp,java,typescript" alt="skills rafi"/>
   </a>
 </p>
 
