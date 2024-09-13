@@ -3,6 +3,8 @@
 </p>
 
 ## Hey 👋, I'm Rafi Aliefian!
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafifiaan&theme=github)
   
 **Informatics Engineering/Computer Science Student at Sepuluh Nopember Institute of Technology 🏛️!**
 
@@ -21,26 +23,8 @@ I prioritize honesty and responsibility in my work while continuing to expand my
 
 ## 🔨 Skill's
 
-<h4><i>Language :</i></h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,c,cpp,java,typescript" alt="skills rafi"/>
-  </a>
-</p>
-
-<h4><i>Tools/Framework :</i></h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,docker,nodejs,expressjs,laravel" alt="toolsfw rafi"/>
-  </a>
-</p>
-
-## ⚡ Statistic's
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rafifiaan&show_icons=true&count_private=true&theme=catppuccin_latte&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafifiaan&layout=compact&hide_border=true&theme=catppuccin_latte&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rafifiaan&theme=catppuccin_latte&hide_border=true&background=FFFFFF00">
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafifiaan&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafifiaan&theme=github)
 
 ## 🤝 Connect with me :
 
