@@ -84,7 +84,7 @@ I started in **Backend Development**—building systems and APIs that solve real
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rafifiaan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rafifiaan&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
