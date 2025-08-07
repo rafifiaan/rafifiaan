@@ -66,6 +66,15 @@ I started in **Backend Development**—building systems and APIs that solve real
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
+### **System Analysis & IT Business**
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Requirement_Analysis-FF8C00?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Use_Case_Diagram-00008B?style=for-the-badge&logo=drawio&logoColor=white" /> 
+</p>
+
 ### **DevOps & Tools**
 
 <p align="left">
