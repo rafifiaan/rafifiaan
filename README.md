@@ -1,7 +1,7 @@
 # Hi there, I'm Rafi Aliefian Putra Ramadhani! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Backend+Developer;Data+Analytics+Enthusiast;Fresh+Graduate;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;IT+Business+Analyst;Data-Driven+Insights+Enthusiast;Fresh+Graduate+from+ITS;Always+Learning!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,25 +12,42 @@
 
 ## 🚀 About Me
 
-**Fresh Graduate in Informatics Engineering** from **Sepuluh Nopember Institute of Technology (ITS)** 🎓
+**Fresh Graduate in Informatics Engineering** from **Institut Teknologi Sepuluh Nopember (ITS)** 🎓
 
-I'm a passionate **Backend Developer** and aspiring **Data Analytics** enthusiast who loves building scalable systems and extracting meaningful insights from data. My journey combines robust backend development with the power of data-driven decision making.
+I started in **Backend Development**—building systems and APIs that solve real problems. Over time, I developed a strong interest in **System Analysis** and **IT Business**, where I could better understand the needs behind a system and align technical solutions with business objectives. This strategic perspective eventually led me to explore **Data Analytics**, where I focus on uncovering **Impactful Insights** that support decision-making and drive **Real-World Solutions**.
 
-### 🎯 Current Focus
+### 🎯 My Journey
 
-- 🔧 **Backend Development**: Building robust APIs and microservices
-- 📊 **Data Analytics**: Transforming data into actionable insights
-- ☁️ **Cloud Computing**: Deploying scalable solutions
-- 🤖 **DevOps**: Automating workflows and CI/CD pipelines
+- 🔧 **Started with Backend**: Building scalable systems with Golang, Node.js, and GCP
+- 🏢 **Evolved to Business**: Bridging technical solutions with business needs
+- 📊 **Now exploring Data**: Transforming data into actionable insights
+- 🎯 **Goal**: Contributing to impactful, real-world solutions
+
+---
+
+## 💼 Core Competencies & Focus
+
+<div align="center">
+
+|              **Backend Development**               |             **IT & Business Insight**              |
+| :------------------------------------------------: | :------------------------------------------------: |
+| Scalable APIs, databases, and service architecture | Bridging business needs with tech-driven solutions |
+
+|                  **System Analysis**                   |                  **Data Analytics**                   |
+| :----------------------------------------------------: | :---------------------------------------------------: |
+| Functional mapping, specs design, and process modeling | Python, SQL, dashboards, and insight-driven decisions |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Backend Development**
+### **Backend & Infrastructure**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,go,python" />
+  <img src="https://skillicons.dev/icons?i=go,js,nodejs,express,gcp" />
+  <img src="https://img.shields.io/badge/IoT_Integration-FF6B6B?style=for-the-badge&logo=internetofthings&logoColor=white" />
 </p>
 
 ### **Databases**
@@ -42,18 +59,19 @@ I'm a passionate **Backend Developer** and aspiring **Data Analytics** enthusias
 ### **Data Analytics & Visualization**
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ### **DevOps & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/DBeaver-2B2B2B?style=for-the-badge&logo=dbeaver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 ---
@@ -75,45 +93,59 @@ I'm a passionate **Backend Developer** and aspiring **Data Analytics** enthusias
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Current Focus
 
 ```javascript
 const rafi = {
-  currentRole: 'Backend Developer & Data Analytics Enthusiast',
-  education: 'Fresh Graduate - Informatics Engineering (ITS)',
-  currentlyLearning: [
-    'Data Analytics',
-    'Machine Learning',
-    'Cloud Architecture',
-  ],
-  workingOn: ['API Development', 'Data Visualization', 'System Architecture'],
-  askMeAbout: [
-    'Backend Development',
-    'Database Design',
-    'Data Analytics',
-    'System Integration',
-  ],
-  technologies: {
-    backend: ['Node.js', 'Express.js', 'Go', 'Gin-Gorm'],
-    databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
-    analytics: ['Python', 'Power BI', 'Tableau', 'Excel'],
-    devops: ['Docker', 'Jenkins'],
-    tools: ['Postman', 'DBeaver', 'Trello'],
+  currentRole:
+    'Backend Developer | IT Business Analyst | Data Analytics Enthusiast',
+  education: 'Fresh Graduate - Informatics Engineering (ITS Surabaya)',
+
+  journey: {
+    started: 'Backend Development',
+    evolved: 'System Analysis & IT Business',
+    exploring: 'Data Analytics & Insights',
   },
-  architecture: ['Microservices', 'RESTful APIs', 'Database Design'],
-  currentChallenge: 'Building scalable data pipelines and analytics dashboards',
+
+  expertise: {
+    backend: ['Golang', 'Node.js', 'Express.js', 'GCP', 'API Design'],
+    business: [
+      'System Analysis',
+      'Requirements Engineering',
+      'Process Modeling',
+    ],
+    data: ['Python', 'SQL', 'R', 'Tableau', 'Power BI', 'ML Fundamentals'],
+    infrastructure: [
+      'Docker',
+      'Jenkins',
+      'PostgreSQL',
+      'MongoDB',
+      'IoT Integration',
+    ],
+  },
+
+  currentGoals: [
+    'Building scalable backend systems',
+    'Bridging business needs with technical solutions',
+    'Extracting actionable insights from data',
+    'Contributing to real-world impact projects',
+  ],
+
+  mindset:
+    'Transforming business requirements into technical solutions, data into actionable insights',
 };
 ```
 
 ---
 
-## 🏆 Achievements & Interests
+## 🏆 Professional Highlights
 
-- 🎓 **Fresh Graduate** in Informatics Engineering from ITS
-- 💻 **Backend Development** expertise with modern frameworks
-- 📊 **Data Analytics** enthusiast exploring business intelligence
-- ☁️ **Cloud Computing** experience with deployment and scaling
-- 🔄 **DevOps** practices for automated workflows
+- 🎓 **Fresh Graduate** in Informatics Engineering from ITS Surabaya
+- 💻 **Backend Expertise** with modern frameworks and cloud platforms
+- 🏢 **Business Acumen** in system analysis and requirements engineering
+- 📊 **Data Enthusiast** exploring analytics and machine learning
+- ☁️ **Cloud Experience** with Google Cloud Platform and containerization
+- 🔄 **Full-Stack Mindset** from backend to business to data insights
 
 ---
 
@@ -139,9 +171,9 @@ const rafi = {
 
 <div align="center">
   
-### 💡 "Turning data into insights, code into solutions"
+### 💡 "Transforming business requirements into technical solutions, data into actionable insights"
 
-**Open for collaborations in Backend Development & Data Analytics projects!**
+**Open for opportunities in Backend Development, IT Business Analysis & Data Analytics!**
 
 ⭐ **Feel free to star any repositories you find interesting!** ⭐
 
