@@ -30,9 +30,10 @@ I started my career in **Systems Analyst**—focusing on analyzing requirements,
 
 <div align="center">
 
-|                   **Systems Analysis**                    |                  **Backend Development**                   |
-| :-------------------------------------------------------: | :--------------------------------------------------------: |
-|      Requirements analysis, UML, ERD, system design       |     Scalable APIs, databases, and service architecture     |
+|              **Systems Analysis**              |              **Backend Development**               |
+| :--------------------------------------------: | :------------------------------------------------: |
+| Requirements analysis, UML, ERD, system design | Scalable APIs, databases, and service architecture |
+
 |                    **Data Analytics**                     |                      **SDLC & Agile**                      |
 | :-------------------------------------------------------: | :--------------------------------------------------------: |
 | EDA, data visualization, ML, and insight-driven decisions | Full development lifecycle and collaborative methodologies |
