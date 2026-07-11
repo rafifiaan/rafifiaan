@@ -1,7 +1,7 @@
 # Hi there, I'm Rafi Aliefian Putra Ramadhani! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Test+Automation+Enthusiast;API+%26+End-to-End+Testing;SDET+in+Progress;AI-powered Testing+Explorer;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Test+Automation+Enthusiast;API+%26+End-to-End+Testing;SDET+in+Progress;AI-powered+Testing+Explorer;Always+Learning!" alt="Typing SVG" />
 </div>
 
 <p align="center">
